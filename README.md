@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá, eu sou Ícaro Caldeira Botelho  
 
-<!--
-**icrcode-senai/icrcode-senai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Professor de Desenvolvimento de Sistemas no SENAI**  
+🐍 Estudante e entusiasta de Python  
+🏎️ Fã apaixonado por Fórmula 1  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏎️ Sobre mim  
+
+Sou professor do curso de **Desenvolvimento de Sistemas no SENAI**, onde compartilho conhecimento, desafios e experiências práticas com meus alunos.  
+
+Atualmente estou aprofundando meus estudos em **Python**, buscando evoluir cada vez mais como desenvolvedor e educador.  
+
+Neste perfil, você vai encontrar 📚:  
+- ✅ Gabaritos de atividades  
+- 📝 Exercícios propostos  
+- 💡 Projetos desenvolvidos em aula  
+- 🛠️ Materiais de apoio para alunos  
+
+---
+
+## 🔭 Atualmente
+- 📚 Aprimorando meus conhecimentos em Python  
+- 🛠️ Desenvolvendo meu TCC
+  
+---
+
+## ⚡ Curiosidade
+Assim como na Fórmula 1, acredito que na programação **performance, estratégia e constância fazem toda a diferença** 🏁
