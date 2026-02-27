@@ -1,8 +1,6 @@
-## 👋 Olá, eu sou Ícaro Caldeira Botelho  
+## Buenas, sou o Ícaro
 
 **Professor de Desenvolvimento de Sistemas no SENAI**  
-
----
 
 ## Sobre mim  
 
@@ -15,8 +13,3 @@ Neste perfil, você vai encontrar:
 - Exercícios propostos  
 - Projetos desenvolvidos em aula  
 - Materiais de apoio para alunos  
-
----
-
-## Atualmente
-- Desenvolvendo meu TCC
